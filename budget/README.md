@@ -22,7 +22,7 @@ A console-based monthly budget management system built using Java, JDBC, and MyS
 
 ## How to Run
 
-1. Create database using db.sql
+1. Create database using Bdb.sql
 2. Update DBConnection.java with your MySQL credentials
 3. Compile:
 
